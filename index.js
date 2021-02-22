@@ -70,7 +70,7 @@ function inning(/*Code Here*/){
 /* ⚾️⚾️⚾️ Task 3: finalScore() ⚾️⚾️⚾️
 Use the finalScore function below to do the following:
   1. Receive the callback function `inning` that was created in Task 2 
-  2. Receive a number of innings to be played
+  2. Receive a number of innings to be played (baseball has 9 innings)
   3. After each inning, update the score of the home and away teams
   4. After the last inning, return an object containing the final (total) score of the innings played
   
